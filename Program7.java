@@ -19,7 +19,7 @@ public class NeonNumber {
         if (sum == num) {
             System.out.println(num + " is a Neon Number");
         } else {
-            System.out.println(num + " is not a Neon Number");
+            System.out.println(num + " it is not a Neon Number");
         }
 
         sc.close();
